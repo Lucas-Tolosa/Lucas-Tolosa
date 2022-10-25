@@ -6,6 +6,7 @@
 - 📫 How to reach me **tolosaalucas@gmail.com**
 
 <h3>Connect with me:</h3>
+
 [![Linkedin Badge](https://img.shields.io/badge/-Lucas_Tolosa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Lucas-Tolosa/)](https://www.linkedin.com/in/lucas-agustin-tolosa-47671a221/)
 
 <h3 align="left">Languages and Tools:</h3>
