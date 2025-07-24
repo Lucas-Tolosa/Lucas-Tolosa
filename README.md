@@ -1,7 +1,7 @@
 <h1 align="center">Hi! I'm Lucas Tolosa!</h1>
 <h3 align="center">FullStack developer trainee.</h3>
 
-- 🌱 I’m currently learning **JavaScript**, **Java**, **CSS** and **HTML**
+- 🌱 I’m currently learning, **Java**, **CSS**, **HTML**, **MySQL**
 
 - 📫 How to reach me **tolosaalucas@gmail.com**
 
