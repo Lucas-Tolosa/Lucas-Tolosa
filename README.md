@@ -1,4 +1,4 @@
-<h1 align="center">Hi! I'm Lucas Tolosa!</h1>
+<h1 align="center">Hello everynyan! I'm Lucas Tolosa!</h1>
 <h3 align="center">FullStack developer trainee.</h3>
 
 - 🌱 I’m currently learning, **Java**, **CSS**, **HTML**, **MySQL**
